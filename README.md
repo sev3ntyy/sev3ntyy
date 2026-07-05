@@ -1,5 +1,5 @@
 <img width="398" height="498" alt="yuta-yuta-jjk" src="https://github.com/user-attachments/assets/1c3a52d3-d3fb-4775-9c86-3dbf6175bd72" />
-![chainsaw-man-csm](https://media1.tenor.com/m/YIscXWFjebUAAAAC/yuta-yuta-jjk.gif)
+![hiii](https://media1.tenor.com/m/YIscXWFjebUAAAAC/yuta-yuta-jjk.gif)
 
 # 💫 About Me:
 Hi everyone, I'm Arseniy Seventy 👋<br><br>👨‍💻 Python developer<br>💤 I'm working on Hydro-Assistant.
