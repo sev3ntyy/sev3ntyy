@@ -1,9 +1,10 @@
-<img width="398" height="498" alt="yuta-yuta-jjk" src="https://github.com/user-attachments/assets/1c3a52d3-d3fb-4775-9c86-3dbf6175bd72" />
+<img width="540" height="304" alt="giphy" src="https://github.com/user-attachments/assets/610e35a1-9805-493e-b4f0-a65899d691ff" />
 
 
 
 # 💫 About Me:
-Hi everyone, I'm Arseniy Seventy 👋<br><br>👨‍💻 Python developer<br>💤 I'm working on Hydro-Assistant.
+Hi everyone, I'm Arseniy Seventy 👋<br><br>👨‍💻 > 🎯 *Future ML Engineer | Passionate about AI & Data Science*
+<br>
 
 
 ## 🌐 Socials:
