@@ -2,9 +2,12 @@
 
 
 
-# 💫 About Me:
-Hi everyone, I'm Arseniy Seventy 👋<br><br>👨‍💻 > 🎯 *Future ML Engineer | Passionate about AI & Data Science*
+# Hi,I'm Arseniy Seventy 👋:
+ 🎯 *Future ML Engineer | Passionate about AI & Data Science*
 <br>
+
+# 💻 My grade - ML/AI - Engineer(Currently Learning)
+# 👨‍💻 Age - 15 y.o
 
 
 ## 🌐 Socials:
