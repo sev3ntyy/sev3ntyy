@@ -9,6 +9,9 @@
 
 
 ## 🌐 Socials:
+<a href="https://t.me" target="_blank">
+  <img src="https://shields.io" alt="Telegram" />
+</a>
 [![Telegramm](https://t.me/sev3ntyy14) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@senya.7ty) 
 
 # 💻 Tech Stack:
