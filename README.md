@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-<img width="32" height="32" alt="free-icon-round-16166125" src="https://github.com/user-attachments/assets/a9f3b3bf-9c11-43bf-88b3-bed7ec8f7d82" href="https://t.me/sev3ntyy14" />
+<img width="32" height="32" alt="free-icon-round-16166125" src="https://t.me/sev3ntyy14" href="https://t.me/sev3ntyy14" />
 
 
 # 💻 Tech Stack:
