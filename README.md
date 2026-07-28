@@ -4,7 +4,7 @@
 
 # Hi,I'm Arseniy Seventy 👋:
  
- 💻 *My grade - ML/AI - Engineer(Currently Learning)*
+ 💻 *My grade - ML/AI - Engineer(Currently Learning)*<br>
  👨‍💻 *Age - 15 y.o*
 
 
