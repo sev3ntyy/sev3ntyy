@@ -59,9 +59,7 @@ Here I share my experiments and projects related to Machine Learning:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://herokuapp.com?user=sev3ntyy)](https://git.io)
 
 ---
 
