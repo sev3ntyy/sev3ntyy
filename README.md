@@ -1,22 +1,52 @@
-<img width="540" height="304" alt="giphy" src="https://github.com/user-attachments/assets/610e35a1-9805-493e-b4f0-a65899d691ff" />
+<h1 align="center">Привет, я Арсений Seventy 👋</h1>
+<h3 align="center">🚀 Начинающий ML-инженер, увлеченный миром ИИ и нейросетей</h3>
 
+<br>
 
-
-# Hi,I'm Arseniy Seventy 👋:
- 
- 💻 *My grade - ML/AI - Engineer(Currently Learning)*<br>
- 👨‍💻 *Age - 15 y.o*
-
-
-# 💻 Tech Stack:
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sayni&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sayni&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayni&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://komarev.com/ghprofile/ucard/?username=ТВОЙ_НИК_НА_GITHUB&color=blueviolet&style=flat-square" alt="stats" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sayni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Обо мне:
+- 🔭 Сейчас я активно погружаюсь в мир **Machine Learning Engineering** и Data Science.
+- 🌱 Мне **15 лет**, и я уже создаю свои первые умные алгоритмы и модели.
+- ⚡ Верю, что за искусственным интеллектом будущее, и хочу внести свой вклад в его развитие.
+- 🎯 **Моя цель:** Создавать эффективные ML-модели и дойти до уровня Senior+ к совершеннолетию.
+
+---
+
+### 🛠️ Мой технологический стек:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📈 Статистика GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК_НА_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК_НА_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Как со мной связаться:
+- **Telegram:** [@Твой_Телеграм](https://t.me/Твой_Телеграм)
+- **Email:** твоя_почта@example.com
+
+<br>
+
+<div align="center">
+  <i>"Machine learning is the last invention that humanity will ever need to make." — Nick Bostrom</i>
+</div>
