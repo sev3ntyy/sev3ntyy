@@ -1,3 +1,5 @@
+https://tenor.com/ru/view/доброе-утро-gif-6066499296347744824
+
 # Hey, I'm Arsenij Seventy 👋
 
 ### ML Engineering student | Python developer | Future AI Engineer
@@ -67,9 +69,8 @@ Here I share my experiments and projects related to Machine Learning:
 
 ## 📫 Connect With Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Telegram: [@your_username](https://t.me/your_username)
-- Email: `your.email@example.com`
+- Telegram: [@your_username](https://t.me/sev34nty)
+- Email: `sayni1434@gmail.com`
 
 ---
 
