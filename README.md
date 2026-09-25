@@ -1,4 +1,5 @@
-https://tenor.com/ru/view/доброе-утро-gif-6066499296347744824
+![Uploading доброе-утро.gif…]()
+
 
 # Hey, I'm Arsenij Seventy 👋
 
