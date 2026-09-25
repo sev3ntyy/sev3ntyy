@@ -1,6 +1,3 @@
-![Uploading доброе-утро.gif…]()
-
-
 # Hey, I'm Arsenij Seventy 👋
 
 ### ML Engineering student | Python developer | Future AI Engineer
